@@ -9,6 +9,7 @@ namespace feladat3
     {
         static void Main(string[] args)
         {
+            List<string> list = new List<string>();
             var fname = "people.csv";
             StreamReader f = new StreamReader(fname);
             string sor;
