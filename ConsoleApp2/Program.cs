@@ -4,7 +4,7 @@ using System.IO;
 
 namespace feladat3
 {
-    // módosítok akármit
+    // módosítok akármit is
     class Program
     {
         static void Main(string[] args)
